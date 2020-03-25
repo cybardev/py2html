@@ -1,0 +1,114 @@
+<a>	Defines a hyperlink.
+<abbr>	Defines an abbreviated form of a longer word or phrase.
+<acronym>	Defines an acronym.
+<address>	Specifies the author's contact information.
+<applet>	Obsolete Embeds a Java applet (mini Java applications) on the page. Use the <object> element instead.
+<area>	Defines a specific area within an image map.
+<article> 	Defines an article.
+<aside> 	Defines some content loosely related to the page content.
+<audio> 	Embeds a sound, or an audio stream in an HTML document.
+<b>	Displays text in a bold style.
+<base>	Defines the base URL for all linked objects on a page.
+<basefont>	Obsolete Specifies the base font for a page.
+<bdi> 	Represents text that is isolated from its surrounding for the purposes of bidirectional text formatting.
+<bdo>	Overrides the current text direction.
+<big>	Obsolete Displays text in a large size.
+<blockquote>	Defines a long quotation.
+<body>	Defines the document's body.
+<br>	Produces a single line break.
+<button>	Creates a clickable button.
+<canvas> 	Defines a region in the document, which can be used to draw graphics on the fly via scripting (usually JavaScript).
+<caption>	Defines the title of a table.
+<center>	Obsolete Align contents in the center of the enclosing block.
+<cite>	Indicates a citation or reference to another source.
+<code>	Specifies text as computer code.
+<col>	Defines attribute values for one or more columns in a table.
+<colgroup>	Specifies attributes for multiple columns in a table.
+<datalist> 	Represents a set of pre-defined options for an <input> element.
+<dd>	Specifies a definition for a term in a definition list.
+<del>	Specifies a block of deleted text.
+<details> 	Represents a widget from which the user can obtain additional information or controls on-demand.
+<dfn>	Specifies a definition.
+<dir>	Obsolete Defines a directory list.
+<div>	Specifies a division or a section in a document.
+<dl>	Defines a definition list.
+<dt>	Defines a term (an item) in a definition list.
+<em>	Specifies emphasized text.
+<embed> 	Embeds external application, typically multimedia content like audio or video into an HTML document.
+<fieldset>	Specifies a set of related form fields.
+<figcaption> 	Defines a caption or legend for a figure.
+<figure> 	Represents a figure illustrated as part of the document.
+<font>	Obsolete Defines font, color, and size for text.
+<footer> 	Represents the footer of a document or a section.
+<form>	Defines an HTML form for user input.
+<frame>	Defines a single frame within a frameset.
+<frameset>	Defines a collection of frames or other frameset.
+<h1> to <h6>	Defines HTML headings.
+<head>	Defines the head portion of the document that contains information about the document such as title.
+<header> 	Represents the header of a document or a section.
+<hgroup> 	Defines a group of headings.
+<hr>	Produce a horizontal line.
+<html>	Defines the root of an HTML document.
+<i>	Displays text in an italic style.
+<iframe>	Displays a URL in an inline frame.
+<img>	Displays an inline image.
+<input>	Defines an input control.
+<ins>	Defines a block of text that has been inserted into a document.
+<kbd>	Specifies text as keyboard input.
+<keygen> 	Represents a control for generating a public-private key pair.
+<label>	Defines a label for an <input> control.
+<legend>	Defines a caption for a <fieldset> element.
+<li>	Defines a list item.
+<link>	Defines the relationship between the current document and an external resource.
+<map>	Defines a client-side image-map.
+<mark> 	Represents text highlighted for reference purposes.
+<menu>	Represents a list of commands.
+<meta>	Provides structured metadata about the document content.
+<meter> 	Represents a scalar measurement within a known range.
+<nav> 	Defines a section of navigation links.
+<noframes>	Defines an alternate content that displays in browsers that do not support frames.
+<noscript>	Defines alternative content to display when the browser doesn't support scripting.
+<object>	Defines an embedded object.
+<ol>	Defines an ordered list.
+<optgroup>	Defines a group of related options in a selection list.
+<option>	Defines an option in a selection list.
+<output> 	Represents the result of a calculation.
+<p>	Defines a paragraph.
+<param>	Defines a parameter for an object or applet element.
+<pre>	Defines a block of preformatted text.
+<progress> 	Represents the completion progress of a task.
+<q>	Defines a short inline quotation.
+<rp> 	Provides fall-back parenthesis for browsers that that don't support ruby annotations.
+<rt> 	Defines the pronunciation of character presented in a ruby annotations.
+<ruby> 	Represents a ruby annotation.
+<s>	Obsolete Displays text in strikethrough style.
+<samp>	Specifies text as sample output from a computer program.
+<script>	Places script in the document for client-side processing.
+<section> 	Defines a section of a document, such as header, footer etc.
+<select>	Defines a selection list within a form.
+<small>	Displays text in a smaller size.
+<source> 	Defines alternative media resources for the media elements like <audio> or <video>.
+<span>	Defines an inline styleless section in a document.
+<strike>	Obsolete Displays text in strikethrough style.
+<strong>	Indicate strongly emphasized text.
+<style>	Inserts style information (commonly CSS) into the head of a document.
+<sub>	Defines subscripted text.
+<summary> 	Defines a summary for the <details> element.
+<sup>	Defines superscripted text.
+<table>	Defines a data table.
+<tbody>	Groups a set of rows defining the main body of the table data.
+<td>	Defines a cell in a table.
+<textarea>	Defines a multi-line text input control (text area).
+<tfoot>	Groups a set of rows summarizing the columns of the table.
+<th>	Defines a header cell in a table.
+<thead>	Groups a set of rows that describes the column labels of a table.
+<time> 	Represents a time and/or date.
+<title>	Defines a title for the document.
+<tr>	Defines a row of cells in a table.
+<track> 	Defines text tracks for the media elements like <audio> or <video>.
+<tt>	Displays text in a teletype style.
+<u>	Obsolete Displays text with an underline.
+<ul>	Defines an unordered list.
+<var>	Defines a variable.
+<video> 	Embeds video content in an HTML document.
+<wbr> 	Represents a line break opportunity.
