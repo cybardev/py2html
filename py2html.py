@@ -62,7 +62,7 @@ def button(idstr="", label=""):
 
 
 def imgin(imgsrc=""):
-    return '<img src="' + + '"/>'
+    return '<img src="' + imgsrc + '"/>'
 
 
 def linkin(link="", string=""):
